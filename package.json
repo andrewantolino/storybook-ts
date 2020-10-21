@@ -1,0 +1,9 @@
+{
+  "name": "storybook-ts",
+  "version": "1.0.0",
+  "description": "Simple app to demo the use of Storybook with React and Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/andrewantolino/storybook-ts",
+  "author": "Andrew M Antolino",
+  "license": "MIT"
+}

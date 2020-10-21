@@ -6,6 +6,10 @@
   "repository": "https://github.com/andrewantolino/storybook-ts",
   "author": "Andrew M Antolino",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack serve",
+    "build": "webpack"
+  },
   "devDependencies": {
     "@types/react": "^16.9.53",
     "@types/react-dom": "^16.9.8",
